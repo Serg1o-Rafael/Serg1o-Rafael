@@ -2,12 +2,16 @@
 
 
 
-  😆Estou atualmente aprendendo diversas tecnologias!
+  😆Estou atualmente aprendendo diversas tecnologias!![Goku no kamehameha](https://github.com/user-attachments/assets/7629e8af-c77c-42a2-a322-cbd992689727)
+
   📚 Estudando em um CURSO TÉCNICO na ETEC!
   <br> <br>
   E-mail: sergiorafael519@gmail.com
+  <br> <br>
 
+![Cenário do japão](https://github.com/user-attachments/assets/49adf293-c45c-4581-8b21-10cec8fe4633)
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serg1o-Rafael&show_icons=true&theme=merko)
+
 <br>
 ### Algumas das minhas tecnologias preferidas.
  <div style="display: inline_block"><br/>
