@@ -4,6 +4,8 @@
 
   😆Estou atualmente aprendendo diversas tecnologias!
   📚 Estudando em um CURSO TÉCNICO na ETEC!
+  <br> <br>
+  E-mail: sergiorafael519@gmail.com
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serg1o-Rafael&show_icons=true&theme=merko)
 <br>
