@@ -4,7 +4,7 @@
 
   😆Estou atualmente aprendendo diversas tecnologias!![Goku no kamehameha](https://github.com/user-attachments/assets/7629e8af-c77c-42a2-a322-cbd992689727)
 
-  📚 Estudando em um CURSO TÉCNICO na ETEC!
+  📚 ex-aluno ETEC formado em ADS!
   <br> <br>
   E-mail: sergiorafael519@gmail.com
   <br> <br>
